@@ -1,0 +1,34 @@
+body{
+  font-size: 16px;
+  font-style: oblique;
+}
+h1{
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: peachpuff;
+}
+
+li{
+  background-color: papayawhip;
+  line-height: 40px;
+  text-decoration: underline;
+}
+
+.background{
+  background-color: powderblue;
+}
+.p{
+  font-weight: 600;
+  font-size: 3em;
+}
+.Amarelo{
+  background-color: yellow;
+}
+.Vermelho{
+  background-color: red;
+}
+.Marrom{
+  background-color: brown;
+}
